@@ -1,7 +1,6 @@
 {
-    "KEY1DAY001": { "status": "active", "type": "1_day" },
-    "KEY3DAYS001": { "status": "active", "type": "3_days" },
-    "KEY7DAYS001": { "status": "active", "type": "7_days" },
-    "KEY30DAYS001": { "status": "active", "type": "30_days" },
-    "KEYPERM001": { "status": "active", "type": "permanent" }
+  "keys": [
+    { "key": "0XFORD123", "days": 7, "startDate": "2025-09-01", "hwid": null },
+    { "key": "VIPPERM", "days": 0, "startDate": "2025-09-01", "hwid": null }
+  ]
 }
