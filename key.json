@@ -1,0 +1,7 @@
+{
+    "KEY1DAY001": { "status": "active", "type": "1_day" },
+    "KEY3DAYS001": { "status": "active", "type": "3_days" },
+    "KEY7DAYS001": { "status": "active", "type": "7_days" },
+    "KEY30DAYS001": { "status": "active", "type": "30_days" },
+    "KEYPERM001": { "status": "active", "type": "permanent" }
+}

@@ -1,4 +1,0 @@
-[
-  { "Key": "ABC123", "Duration": 60 },
-  { "Key": "DELTA42", "Duration": 120 }
-]
